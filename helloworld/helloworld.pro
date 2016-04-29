@@ -1,6 +1,9 @@
-HEADERS +=
+HEADERS += \
+    hellodialog.h
 
 SOURCES += \
+    hellodialog.cpp \
     main.cpp
 
-FORMS +=
+FORMS += \
+    hellodialog.ui
